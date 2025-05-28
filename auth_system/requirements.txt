@@ -1,0 +1,9 @@
+
+#install by running: pip install -r requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+argon2-cffi
+pydantic
+
