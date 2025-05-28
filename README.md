@@ -27,15 +27,6 @@ This is a **production-ready authentication API** built with **FastAPI + Argon2 
 
 ---
 
-## 🛠 Quickstart
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/NVLMND/auth_system.git
-cd auth-system
-
----
-
 ## Folder Structure
 
 app/
@@ -46,3 +37,11 @@ app/
 ├── utils.py         # Password hashing (Argon2)
 ├── jwt_handler.py   # Token creation/validation
 └── db.py            # DB connection
+
+## 🛠 Quickstart
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/NVLMND/auth_system.git
+cd auth-system
+
