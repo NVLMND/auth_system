@@ -31,5 +31,5 @@ This is a **production-ready authentication API** built with **FastAPI + Argon2 
 
 1. **Clone the repo**
 ```bash
-git clone 
+git clone https://github.com/NVLMND/auth_system.git
 cd auth-system
